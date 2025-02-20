@@ -17,8 +17,9 @@ The following image illustrates the content and style images used in the experim
 
 ![Content and Style Images](content-style.png)
 
-After training for 5000 epochs, the total loss decreased significantly from 2024718073856.0 to 271570763776.0. The resulting stylized image is shown below:
+After training for 5000 epochs, the total loss decreased significantly from 2024718073856 to 271570763776 which means that
+the loss decreased about 7.45 times of the loss at the beginning of the training. The resulting stylized image is shown below:
 
-![Final Target Image](final target image.png)
+![Final Target Image](final-target-image.png)
 
 This demonstrates the successful application of neural style transfer using the VGG19 architecture.
